@@ -1,5 +1,8 @@
 # ShareX-Custom-Uploader
 This is how to use the ShareX Custom Uploader
+## Requirements
+- Cloudflare must be enabled
+- Must have ShareX
 ## Original Source
 https://www.nextgenupdate.com/forums/computers/886853-how-make-your-own-custom-sharex-image-uploader-custom-domain-etc.html
 ## How to?
