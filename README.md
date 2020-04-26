@@ -14,11 +14,11 @@ If you use Github Pages you can either use Cloudflare or Github Pages's Enforce 
 ### 2.
 Download the up.php file [by clicking on this link.](https://github.com/BlueGoPvP/ShareX-Custom-Uploader/raw/master/up.php)
 ### 3.
-Change the what's in red boxes in this: ![Alt text](https://bgpvp.cf/vgiuu1qi.png)
+Change this what's in the red boxes: ![](https://i.bgpvp.xyz/slloO.png) 
 ### 4.
 Upload to your server.
 ### 5.
-Follow the steps on the screenshot: ![Alt text](https://i.imgur.com/J3z35jW.png)
+Follow the steps on the screenshot: ![](https://i.imgur.com/J3z35jW.png)
 ### 6.
 Enjoy your new custom uploader!
 ## Problems?
