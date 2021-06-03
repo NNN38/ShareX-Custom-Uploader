@@ -14,7 +14,7 @@ This is how to use the ShareX Custom Uploader.
 First requirement is to have Cloudflare enabled on your website so that you can have https.
 If you use Github Pages you can either use Cloudflare or Github Pages's Enforce HTTPS.
 ### 2.
-Download the up.php file [by clicking on this link.](https://github.com/BlueGoPvP/ShareX-Custom-Uploader/raw/master/up.php)
+Download the up.php file [by clicking on this link.](https://github.com/NNN38/ShareX-Custom-Uploader/raw/master/up.php)
 ### 3.
 Change this what's in the red boxes: ![](https://i.bgpvp.xyz/slloO.png) 
 ### 4.
