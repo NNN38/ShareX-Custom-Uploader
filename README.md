@@ -2,7 +2,7 @@
 To jest jak używać własnego przesyłacza ShareX
 
 ## Wymagania
-- Cloudflare musi być włączone **i HTTPS musi być włączone**.
+- Cloudflare musi być włączone **i HTTPS musi być włączone**. (No chyba że już masz HTTPS)
 - Musisz Mieć ShareX *to oczywiste*.
 - **Używaj tylko Stron github'a jeżeli masz Github Pro więc osoby nie zobaczą twojego klucza prywatnego.**
 
