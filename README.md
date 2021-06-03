@@ -25,7 +25,7 @@ Podążaj za krokami na screenshot: ![](https://i.imgur.com/J3z35jW.png)
 Ciesz się swoim nowym przesyłaczem ShareX
 
 # Problemy?
-Jeżeli masz jakiś problem możesz otworzyć "Issue" w tej repozychi [klikając w ten tekst](https://github.com/NNN38/ShareX-Custom-Uploader/issues/new).
+Jeżeli masz jakiś problem możesz otworzyć "Issue" w tej repozycji [klikając w ten tekst](https://github.com/NNN38/ShareX-Custom-Uploader/issues/new).
 
 ### Oryginał: bgpvp
 ### Polska wersja: NNN38
