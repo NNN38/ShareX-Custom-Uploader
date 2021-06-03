@@ -1,9 +1,9 @@
 <?php
  
-$secret_key = "arandomkeywithnumbersforsecurity123"; //Set this as your secret key, to prevent others uploading to your server.
-$sharexdir = ""; //This is your file dir, also the link.. Not very important.
-$domain_url = 'https://yourwebsite.here';//Add your website here, including https://
-$lengthofstring = 8; //Length of the file name
+$secret_key = "twojklucz"; //Ustaw to jako swój klucz prywatny, żeby zatrzymać innych przed przesyłaniem plików na twojego sharex'a.
+$sharexdir = ""; //To jest twón folder z plikami, tez jest link.. Nic bardzo ważnego
+$domain_url = 'https://przyklad.pl';//Dodaj swoją strone tutaj, zawierając https://
+$lengthofstring = 8; //Długość nazwy pliku
  
 function RandomString($length) {
     $keys = array_merge(range(0,9), range('a', 'z'));
