@@ -1,29 +1,31 @@
 # ShareX-Custom-Uploader
-This is how to use the ShareX Custom Uploader.
+To jest jak używać własnego przesyłacza ShareX
 
-## Requirements
-- Cloudflare must be enabled **and HTTPS on**.
-- Must have ShareX *of course*.
-- **Use only Github Pages if you have Github Pro so that people can't see your private key.**
+## Wymagania
+- Cloudflare musi być włączone **i HTTPS musi być włączone**.
+- Musisz Mieć ShareX *to oczywiste*.
+- **Używaj tylko Stron github'a jeżeli masz Github Pro więc osoby nie zobaczą twojego klucza prywatnego.**
 
-## Original Source
-[The original forum post can be found here.](https://www.nextgenupdate.com/forums/computers/886853-how-make-your-own-custom-sharex-image-uploader-custom-domain-etc.html)
+## Oryginalne źródło
+[Oryginalny post forum może zostać znaleziony tutaj. (Angielski)](https://www.nextgenupdate.com/forums/computers/886853-how-make-your-own-custom-sharex-image-uploader-custom-domain-etc.html)
 
-## How to?
+## Jak?
 ### 1.
-First requirement is to have Cloudflare enabled on your website so that you can have https.
-If you use Github Pages you can either use Cloudflare or Github Pages's Enforce HTTPS.
+Pierwszym wymaganiem jest żeby mieć Cloudflare włączone na twojej stronie więc możesz mieć HTTPS.
+Jeżeli masz strony githuba można albo użyć Cloudflare lub Wymuszenie HTTPS Stron Github.
 ### 2.
-Download the up.php file [by clicking on this link.](https://github.com/NNN38/ShareX-Custom-Uploader/raw/master/up.php)
+Pobierz plik up.php file [przez klikając w ten link lub jeżeli ci się pokaże skrypt skopiuj i wklej skrypt i to ustaw](https://github.com/NNN38/ShareX-Custom-Uploader/raw/master/up.php)
 ### 3.
-Change this what's in the red boxes: ![](https://i.bgpvp.xyz/slloO.png) 
+Zmień to co jest w czerwonych polach: ![](https://i.bgpvp.xyz/slloO.png) 
 ### 4.
-Upload to your server.
+Prześlij na serwer.
 ### 5.
-Follow the steps on the screenshot: ![](https://i.imgur.com/J3z35jW.png)
+Podążaj za krokami na screenshot: ![](https://i.imgur.com/J3z35jW.png)
 ### 6.
-Enjoy your new custom uploader!
-
+Ciesz się swoim nowym przesyłaczem ShareX
 
 # Problems?
-If you have any problems, you can open an issue on this repo [by clicking on this text](https://github.com/bgpvp/ShareX-Custom-Uploader/issues/new).
+Jeżeli masz jakiś problem możesz otworzyć "Issue" w tej repozychi [klikając w ten tekst](https://github.com/NNN38/ShareX-Custom-Uploader/issues/new).
+
+### Oryginał: bgpvp
+### Polska wersja: NNN38
