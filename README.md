@@ -29,3 +29,8 @@ Jeżeli masz jakiś problem możesz otworzyć "Issue" w tej repozycji [klikając
 
 ### Oryginał: bgpvp
 ### Polska wersja: NNN38
+
+# Tłumaczenia screenshota
+replace with your own wesbite - zmień na twoją strone
+replace with secret key - zmień na sekretny klucz
+very important - bardzo ważne
